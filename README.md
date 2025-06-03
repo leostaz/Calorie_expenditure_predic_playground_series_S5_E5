@@ -35,3 +35,5 @@ The competition organizers reserve the right to update the contest timeline if t
 Links:
 
 https://www.kaggle.com/competitions/playground-series-s5e5
+
+https://www.kaggle.com/code/les1781/calorie-expenditure-predic-playground-series-s5-e5
